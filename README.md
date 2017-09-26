@@ -31,7 +31,7 @@ The following resource is composed with the students of Design III-A, Mason Gros
 - Sign up for a Github account, you'll need it to turn in your homework.
 
 ## How to Turn In Your Homework
-- Edit the HW Wiki and add the link to your p5 web editor sketch under the appropriate week: [Homework Wiki](MAKE THIS)
+- Edit the HW Wiki and add the link to your p5 web editor sketch under the appropriate week: [Homework Wiki](https://github.com/melaniehoff/p5js_learning/wiki/Homework-Wiki)
 
 
 ## Videos
