@@ -1,5 +1,10 @@
-# ICM-2017
-Syllabus for ITP Foundation Course Introduction to Computational Media
+# P5.js Learning
+The following resource is composed with the students of Design III-A, Mason Gross School of the Arts, Rutgers University, 2017 in mind.
+
+### Context - Women in Computing
+* [A Brief History of Women in Computing - A response to the google memo](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306)
+* [BBC Documentary on Ada Lovelace](https://www.youtube.com/watch?v=QgUVrzkQgds&t=53s)
+
 
 ### Summary
 * 1 -- Introduction and Drawing
@@ -18,24 +23,15 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * 14 -- Final Project Presentations
 
 
-
-## Listserv
-- [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
-
 ## p5.js
-- This year we are using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding.  Check out the [new web editor for p5.js](https://alpha.editor.p5js.org/).
+- [p5.js](http://www.p5js.org/) is a JavaScript framework for creative coding. 
 
-## Section specific info
-* [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2017/blob/master/sections.md)
+## Setup
+- Sign up for an account on the [web editor for p5.js](https://alpha.editor.p5js.org/).
+- Sign up for a Github account, you'll need it to turn in your homework.
 
-## Homework Wikis
-- Allison, Monday, 6:30-9:00: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Monday)
-- Allison, Wednesday, 12:10–2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)
-- Dano, Wednesday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)
-- Mimi, Tuesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Mimi-Tuesday)
-- Shawn, Wednesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
-- Shiffman, Wednesday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Wednesday-1)
-- Shiffman, Wednesday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Wednesday-2)
+## How to Turn In Your Homework
+- Edit the HW Wiki and add the link to your p5 web editor sketch under the appropriate week: [Homework Wiki](MAKE THIS)
 
 
 ## Videos
@@ -51,15 +47,9 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - [Learning Processing code ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js)
 - [Video lesson accompanying code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
 
-## Extra Help
-- [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
-- [Cassie Office Hours](https://github.com/ITPNYU/ICM-2017/wiki/Cassie-Office-Hours) -- (Cassie is the lead developer of the p5.js web editor so bring your bugs and questions about that!)
-- ICM Help Sessions:
-- Tuesdays,  6:45pm - 8:45pm, Meeting Room, with residents Mathura & Leon
-- Fridays 1:00pm - 2:30pm, Room 20, with residents Lisa & Aarón
 
 ## Inspirational Projects
-- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
+- [Inspiration wiki](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
 
 ## Resources
 - [p5.js reference](http://p5js.org/reference)
@@ -76,7 +66,6 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   * What is programming?
   * How can I apply programming to _____________?
   * As a ____________, why would I want or need to write software?
-  * [Example projects](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration).
 * Programming language discussion
   * General discussion of programming languages
   * History of creative coding frameworks
@@ -240,14 +229,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - Sound
 - Live capture
 - Movie playback
-- Video Assignment
 
-### 9 -- Extra Synthesis Workshop -- All sections meet Friday, October 27, 11am-2pm!
-* Meet in the ITP Lounge
-* Pizza will be served
-* Details TBA
-
-### PROJECT RUNWAY
 
 ### 10 -- Mobile
 - Workflow and process, get a previous sketch running on a device
@@ -273,21 +255,12 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   - [iOS remote debugging](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
   - [Generic remote debugging](https://jsconsole.com/)
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
-- Homework: Prepare a final project proposal.  See you section's wiki.
 
-### 11 -- Other Topics + Final Project Proposals
-- **See your individual section's proposal schedule on your wiki**
-- Possible topics
-   - more on pixels
-   - more on data
+### 11 -- Other Topics
    - setTimeout, setInterval
    - WebGL - [tutorial](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
 
-### 12 -- Beyond p5.js + Final Project Proposals
-- **See your individual section's proposal schedule on your wiki**
-- Life beyond p5.js
-  - Take ICM into the spring semester courses
-  - Other JS libraries?
+### 12 -- Beyond p5.js
   - Coding outside the p5 IDE? ([local server tutorial](https://github.com/processing/p5.js/wiki/Local-server)), [video tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
   - [More HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
   - What is server side programming for?
@@ -300,49 +273,4 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   - How do you get involved with this?
 
 ### 13 -- One on one speed user testing / feedback
-- This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
-
-### 14 -- Final Project Presentations
-- Please add your link to your final project documentation on your section's wiki.
-
-
-# Policies
-
-## Evaluation
-
-Grades will be determined according to the following breakdown:
-* Regular Assignments 40%
-* Participation and Attendance 40%
-* Final Project 20%
-
-Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
-
-We will have weekly assignments that are relevant to material from the previous class. These assignments are required and you should be prepared to show/talk about them in class. It is expected that everyone in the class will create and maintain a blog for their assignments.
-
-Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Two unexcused absences is cause for failing the class. (An unexcused lateness of 10 minutes or more is equivalent to 1/2 an absence.)
-
-This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 40% of your grade.
-
-Class will culminate with final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 20% of your grade.
-
-
-Mantras By James
-----------------
-- "Practice is the best of all instructors." - computation requires practice
-- "An agreeable companion on a journey is as good as a carriage." - look to your classmates for help too
-- "While we stop to think, we often miss our opportunity." - sometimes you need to take a leap of faith
-- "When two do the same thing, it is not the same thing after all." - encourage students with similar ideas
-- "The bow too tensely strung is easily broken." - don't get too stressed out
-- All of these are from Plubius Syrus.(42 B.C.)
-
-Previous Years
---------------
-- [Old 2015 Syllabi and links](https://github.com/ITPNYU/ICM-2015/)
-- [Old 2014 Syllabi and links](https://github.com/ITPNYU/ICM-2014/)
-- [Old 2013 Syllabi and links](https://github.com/ITPNYU/ICM-2013/)
-- [Old 2012 Syllabi and links](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F12)
-- [Old 2011 Syllabi and links](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F11)
-- [Old 2010 Syllabi and links](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F10)
-- [Old 2009 Syllabi and links](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F09)
-- [Old 2008 Syllabi and links](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F08)
-- [Old 2007 Syllabi and links](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F07)
+- "user test" your projects with fellow classmates. User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions. 
