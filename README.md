@@ -1,17 +1,14 @@
-# Coding Resource
-## Design III-A, Mason Gross School of the Arts, Fall 2017 
+# Design III-A Coding Resource
+## Mason Gross School of the Arts, Rutgers, Fall 2017 
 - [Syllabus](http://teaching.paganstudio.com/fall2017/home/)
 - [Class Arena Channel](https://www.are.na/design-3a)
 - [Class Notes](http://bit.ly/2f7ydwb)
-
-## [p5.js](http://www.p5js.org/) is a JavaScript framework for creative coding.
-
 
 ### Context - Women in Computing
 * [A Brief History of Women in Computing - A response to the google memo](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306)
 * [BBC Documentary on Ada Lovelace](https://www.youtube.com/watch?v=QgUVrzkQgds&t=53s)
 
-
+## [p5.js](http://www.p5js.org/) is a JavaScript framework for creative coding.
 ### Summary
 * 1 -- Introduction and Drawing
 * 2 -- Animation Variables
@@ -35,32 +32,28 @@
 ## How to Turn In Your Homework
 - Edit the HW Wiki and add the link to your p5 web editor sketch under the appropriate week: [Homework Wiki](https://github.com/melaniehoff/p5js_learning/wiki/Homework-Wiki)
 
-## Videos
-- [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
-- [Shiffman YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
+## Video Tutorials and Example Code
+- [Coding Train YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
+  - [Coding Train Accompanying Code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
+- [Getting Started with p5.js code](https://github.com/melaniehoff/p5.js-examples)
+
 
 ## Books
 - [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book. 
 - If you are interested in some supplemental reading on HTML and CSS, The [HTML & CSS book](http://www.htmlandcssbook.com/) is a nice one.
 
-## Example Code
-- [Getting Started with p5.js code](https://github.com/lmccart/gswp5.js-code)
-- [Learning Processing code ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js)
-- [Video lesson accompanying code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
 
-
-## Inspirational Projects
-- [Inspiration wiki](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
+## Inspiration
+- [ITP's Inspiration wiki](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
+- [Check out the Eyeo Talks](https://vimeo.com/eyeofestival/)
 
 ## Resources
 - [p5.js reference](http://p5js.org/reference)
-- [p5.js forum](http://forum.processing.org/two/)
 - [p5.js tutorials](https://p5js.org/learn/)
-- [Getting Started with p5.js](http://amzn.to/1PmztVt) - O'Reilly book
-- [Intro to Visual Programming with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js) - online video tutorials (free with signup)
-- There are [many additional resources on the Resources wiki page](https://github.com/ITPNYU/ICM-2017/wiki/Resources).
+- [Getting Started with p5.js Book](http://amzn.to/1PmztVt)
+- [Additional resources on the ITP Resources wiki page](https://github.com/ITPNYU/ICM-2017/wiki/Resources).
 
-## Syllabus
+## p5.js Syllabus
 
 ### 1 -- Introduction and Drawing
 * What is computational media?
@@ -69,9 +62,9 @@
   * As a ____________, why would I want or need to write software?
 * Programming language discussion
   * General discussion of programming languages
-  * History of creative coding frameworks
-      * Processing and p5.js (and what's processing.js?): [What is p5.js video](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
-      * openframeworks, cinder
+  * Creative coding frameworks
+      * What's p5.js?: [What is p5.js video](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
+      * openframeworks [Zach Lieberman](https://www.instagram.com/zach.lieberman/?hl=en)
       * max/msp dataflow programming
       * How does arduino fit in?
 * p5.js in the context of the browser
@@ -81,16 +74,13 @@
   * What is the difference between p5 and JavaScript?
 * Participating in an open-source community
   * What are git and github?
-  * When should you post to a forum vs. file a github issue?
   * Who makes these things?
-  * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
 * Getting started, your first program
   * Drawing with numbers: [video tutorial](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
   * Shape and color functions: [video tutorial](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
   * `setup()` and `draw()`
   * [p5.js reference](http://p5js.org/reference)
 * <a id="optional-1">Optional viewing / reading:</a>
-  * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
   * [Introductory p5.js videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
