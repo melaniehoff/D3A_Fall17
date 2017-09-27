@@ -2,7 +2,7 @@
 ## Mason Gross School of the Arts, Rutgers, Fall 2017 
 - [Syllabus](http://teaching.paganstudio.com/fall2017/home/)
 - [Class Arena Channel](https://www.are.na/design-3a)
-- [Class Notes](http://bit.ly/2f7ydwb)
+- [Thursdays - Class Notes](http://bit.ly/2f7ydwb)
 
 ### Context - Women in Computing
 * [A Brief History of Women in Computing - A response to the google memo](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306)
