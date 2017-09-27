@@ -56,16 +56,16 @@
 ## p5.js Syllabus
 
 ### 1 -- Introduction and Drawing
+* What is poetic computation? [Poetic Computation Reader](http://poeticcomputation.info)
 * What is computational media?
   * What is programming?
   * How can I apply programming to _____________?
   * As a ____________, why would I want or need to write software?
 * Programming language discussion
-  * General discussion of programming languages
   * Creative coding frameworks
       * What's p5.js?: [What is p5.js video](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
       * openframeworks [Zach Lieberman](https://www.instagram.com/zach.lieberman/?hl=en)
-      * max/msp dataflow programming
+      * max/msp dataflow programming [node-based visual programming arena channel](https://www.are.na/francis-tseng/node-based-visual-programming-interfaces)
       * How does arduino fit in?
 * p5.js in the context of the browser
   * Landscape of HTML, CSS, and JavaScript
@@ -89,6 +89,7 @@
   * [For more about color](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
   * [For more about shapes (specifically "custom shapes" with vertices and bezier curves)](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l)
   * [p5 playground (by Yining)](http://yining1023.github.io/p5PlayGround/)
+  * [Critical Programming Arena Channel](https://www.are.na/francis-tseng/critical-programming)
 
 
 ### 2 -- Animation
@@ -115,7 +116,6 @@
 - Conditional Statements
     - Boolean expressions
     - if statement
-    - relational operators
     - [video tutorial](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
     - Case study, bouncing ball: [video tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11)
     - else, else if, AND, OR [video tutorial](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
@@ -152,12 +152,10 @@
    - [implementing distance function example](https://alpha.editor.p5js.org/projects/HJgR7UcKa)
 - Recursion
    - [recursion](https://alpha.editor.p5js.org/projects/Hyevi8ct6)
-- Videos about functions inside objects coming soon!
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
 ### 5 -- Objects and Arrays
-* **In progress, new videos coming! Below are the old videos**
 * Review object literals:
   * properties - name/value pairs
   * functions inside objects
@@ -210,7 +208,7 @@
 - Additional Reading:
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
-  - [Sentencing Guideline From Surya](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
+  - [Sentencing Guideline From Surya Mattu](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
 
 ### 8 -- Video and Sound
 * [Video tutorials on video](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
@@ -218,7 +216,7 @@
 - [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
 - [Video/capture: p5.MediaElement reference](http://p5js.org/reference/#/p5.MediaElement)
 - Sound
-- Live capture
+- Live capture with built-in mic
 - Movie playback
 
 
@@ -258,10 +256,8 @@
     - [Database a service](http://shiffman.net/a2z/firebase/) controlled by p5.js client.
     - [web sockets for real-time communcation](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
     - [Basics of node](http://shiffman.net/a2z/server-node/), [making an API in Node](http://shiffman.net/a2z/node-api/)
-  - [Processing](http://processing.org)
   - Open source
     - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc?
-  - How do you get involved with this?
 
 ### 13 -- One on one speed user testing / feedback
 - "user test" your projects with fellow classmates. User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions. 
