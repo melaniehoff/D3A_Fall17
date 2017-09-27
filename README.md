@@ -7,6 +7,7 @@
 ### Context - Women in Computing
 * [A Brief History of Women in Computing - A response to the google memo](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306)
 * [BBC Documentary on Ada Lovelace](https://www.youtube.com/watch?v=QgUVrzkQgds&t=53s)
+* [Lauren McCarthy, Creator of p5.js](http://lauren-mccarthy.com/)
 
 ## [p5.js](http://www.p5js.org/) is a JavaScript framework for creative coding.
 ### Summary
