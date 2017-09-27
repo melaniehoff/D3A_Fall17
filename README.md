@@ -24,7 +24,6 @@
 * 11 -- Other Topics + Final Project Proposals
 * 12 -- Beyond p5.js + Final Project Proposals
 * 13 -- One on one speed user testing / feedback
-* 14 -- Final Project Presentations 
 
 ## Setup
 - Sign up for an account on the [web editor for p5.js](https://alpha.editor.p5js.org/).
