@@ -1,5 +1,10 @@
-# P5.js Learning
-The following resource is composed with the students of Design III-A, Mason Gross School of the Arts, Rutgers University, 2017 in mind.
+# Design III-A, Mason Gross School of the Arts, Fall 2017 - Coding Resource 
+- [Syllabus](http://teaching.paganstudio.com/fall2017/home/)
+- [Class Arena Channel](https://www.are.na/design-3a)
+- [Class Notes](http://bit.ly/2f7ydwb)
+
+## [p5.js](http://www.p5js.org/) is a JavaScript framework for creative coding.
+
 
 ### Context - Women in Computing
 * [A Brief History of Women in Computing - A response to the google memo](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306)
@@ -20,11 +25,7 @@ The following resource is composed with the students of Design III-A, Mason Gros
 * 11 -- Other Topics + Final Project Proposals
 * 12 -- Beyond p5.js + Final Project Proposals
 * 13 -- One on one speed user testing / feedback
-* 14 -- Final Project Presentations
-
-
-## p5.js
-- [p5.js](http://www.p5js.org/) is a JavaScript framework for creative coding. 
+* 14 -- Final Project Presentations 
 
 ## Setup
 - Sign up for an account on the [web editor for p5.js](https://alpha.editor.p5js.org/).
@@ -32,7 +33,6 @@ The following resource is composed with the students of Design III-A, Mason Gros
 
 ## How to Turn In Your Homework
 - Edit the HW Wiki and add the link to your p5 web editor sketch under the appropriate week: [Homework Wiki](https://github.com/melaniehoff/p5js_learning/wiki/Homework-Wiki)
-
 
 ## Videos
 - [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
