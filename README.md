@@ -27,10 +27,9 @@
 
 ## Setup
 - Sign up for an account on the [web editor for p5.js](https://alpha.editor.p5js.org/).
-- Sign up for a Github account, you'll need it to turn in your homework.
 
 ## How to Turn In Your Homework
-- Edit the HW Wiki and add the link to your p5 web editor sketch under the appropriate week: [Homework Wiki](https://github.com/melaniehoff/p5js_learning/wiki/Homework-Wiki)
+- [Use this form]() to turn in your homework assignments.
 
 ## Video Tutorials and Example Code
 - [Coding Train YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
