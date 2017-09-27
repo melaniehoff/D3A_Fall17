@@ -1,4 +1,5 @@
-# Coding Resource for Design III-A, Mason Gross School of the Arts, Fall 2017 
+# Coding Resource
+## Design III-A, Mason Gross School of the Arts, Fall 2017 
 - [Syllabus](http://teaching.paganstudio.com/fall2017/home/)
 - [Class Arena Channel](https://www.are.na/design-3a)
 - [Class Notes](http://bit.ly/2f7ydwb)
