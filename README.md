@@ -19,10 +19,9 @@
 * 6 -- Serial and DOM: events and callback function
 * 7 -- Data
 * 8 -- Video and Sound
-* 9 -- Extra Synthesis Workshop -- All sections meet Friday, October 27, 11am-2pm!
 * 10 -- Mobile
-* 11 -- Other Topics + Final Project Proposals
-* 12 -- Beyond p5.js + Final Project Proposals
+* 11 -- Other Topics
+* 12 -- Beyond p5.js
 * 13 -- One on one speed user testing / feedback
 
 ## Setup
