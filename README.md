@@ -28,7 +28,7 @@
 - Sign up for an account on the [web editor for p5.js](https://alpha.editor.p5js.org/).
 
 ## How to Turn In Your Homework
-- [Use this form](https://docs.google.com/document/d/1CEki4DUzbqt0DTbLDd02TaBzrwjXZtaMBTzy1JbIyFo/edit?usp=sharing) to turn in your homework assignments.
+- [Use this form](https://docs.google.com/spreadsheets/d/1-G2WQb3wcuayVoFU2nwlzU44EcnTJwSPqPBvp3PbbTc/edit#gid=0) to turn in your homework assignments.
 
 ## Video Tutorials and Example Code
 - [Coding Train YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
