@@ -43,6 +43,8 @@
 
 ## Inspiration
 - [ITP's Inspiration wiki](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
+- [Rafael Rozendaal](http://www.newrafael.com/websites/)
+- [Random Color](randomcolour.com)
 - [Check out the Eyeo Talks](https://vimeo.com/eyeofestival/)
 
 ## Resources
