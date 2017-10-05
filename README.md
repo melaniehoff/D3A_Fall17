@@ -68,6 +68,7 @@
       * max/msp dataflow programming [node-based visual programming arena channel](https://www.are.na/francis-tseng/node-based-visual-programming-interfaces)
       * How does arduino fit in?
 * p5.js in the context of the browser
+  * [Code for a centered p5 sketch on an index.html page](https://gist.github.com/melaniehoff/239bd2e3f2612c5eda227323ec0676c2)
   * Landscape of HTML, CSS, and JavaScript
   * Other JS frameworks
   * Server-side vs. client-side
